@@ -1,0 +1,1 @@
+this is my python program to %%writefilee intoa i a file in different way
