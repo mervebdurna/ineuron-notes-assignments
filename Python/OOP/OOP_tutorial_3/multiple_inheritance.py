@@ -32,6 +32,7 @@ b_B.test(b_B) # test method comes from bank class NOT from bank_B
 
 
 b_C = bank_C
-b_C(b_C) # test method comes from bank_A class NOT from bank because we inherit bank_A and than bank class while creating bank_C class
+b_C.test(b_C) # test method comes from bank_A class NOT from bank because we inherit bank_A and than bank class while creating bank_C class
+
 
 # one class can be inherit from more than 2 classes like 3, 4,..
